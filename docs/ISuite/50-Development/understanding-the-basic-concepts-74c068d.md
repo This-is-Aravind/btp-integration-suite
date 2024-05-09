@@ -37,7 +37,7 @@ A business transaction pattern provides the pattern of one-way or two-way busine
 
 *Business Transaction Step*
 
-A business transaction step is a single step within a one-way or two-way business transaction. It defines how the business information should be exchanged between the initiating and reacting trading partner or vice versa \(just two-way business transaction\). It includes all necessary and involved components for exchanging a specific business infromation or item between the two involved trading partners for fullfilling a specific state of the business transaction. A business transaction step could be from company's point of view in outbound or inbound direction. These components are:
+A business transaction step is a single step within a one-way or two-way business transaction. It defines how the business information should be exchanged between the initiating and reacting trading partner or vice versa \(just two-way business transaction\). It includes all necessary and involved components for exchanging a specific business information or item between the two involved trading partners for fullfilling a specific state of the business transaction. A business transaction step could be from company's point of view in outbound or inbound direction. These components are:
 
 -   Source \(sender\) system including the message implementation guidelines for the submitting payloads of business messages
 
